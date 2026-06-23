@@ -1,0 +1,11 @@
+{
+  "name": "robloxproject",
+  "version": "1.0.0",
+  "description": "This repository can be forked for making a new Roblox project, it contains all the development tools required for linting, syncing, etc.",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "azul-sync": "^1.5.0"
+  }
+}
