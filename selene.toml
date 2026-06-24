@@ -1,2 +1,2 @@
 std = "roblox"
-exclude = ["src/ReplicatedStorage/Packages", "src/ReplicatedStorage/Packages/*", "src/ServerScriptService/Packages", "src/ServerScriptService/Packages/*", "src/ServerStorage", ""src/ServerStorage/*"]
+exclude = ["src/ReplicatedStorage/Packages", "src/ReplicatedStorage/Packages/*", "src/ServerScriptService/Packages", "src/ServerScriptService/Packages/*", "src/ServerStorage", "src/ServerStorage/*"]
